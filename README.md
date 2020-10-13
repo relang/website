@@ -1,2 +1,2 @@
-# website
-The official website of Re programming language
+# Re
+The Re programming language
